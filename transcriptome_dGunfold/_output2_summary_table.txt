@@ -1,0 +1,51 @@
+total genes: 	74
+total CDSs: 	69
+mRNAs with tss: 	43
+number of multiforms: 	0
+leaderless mRNAs: 	4
+leadered mRNAs: 	39
+mRNAs having leadered and leaderless forms: 	0
+total ncRNAs: 	5
+total tRNAs: 	0
+total rRNAs: 	0
+all mRNAs starting with ATG: 	26
+all mRNAs starting with GTG: 	7
+all mRNAs starting with CTG: 	0
+all mRNAs starting with TTG: 	9
+all mRNAs starting with ATA: 	0
+all mRNAs starting with ATC: 	1
+all mRNAs starting with ATT: 	0
+leaderless mRNAs starting with ATG: 	4
+leaderless mRNAs starting with GTG: 	0
+leaderless mRNAs starting with CTG: 	0
+leaderless mRNAs starting with TTG: 	0
+leaderless mRNAs starting with ATA: 	0
+leaderless mRNAs starting with ATC: 	0
+leaderless mRNAs starting with ATT: 	0
+leadered mRNAs starting with ATG: 	22
+leadered mRNAs starting with GTG: 	7
+leadered mRNAs starting with CTG: 	0
+leadered mRNAs starting with TTG: 	9
+leadered mRNAs starting with ATA: 	0
+leadered mRNAs starting with ATC: 	1
+leadered mRNAs starting with ATT: 	0
+leadered mRNAs with 1 nt leader length: 	0
+leadered mRNAs with 2 nts leader length: 	0
+leadered mRNAs with 3 nts leader length: 	1
+leadered mRNAs with 4 nts leader length: 	0
+leadered mRNAs with 5 nts leader length: 	0
+leadered mRNAs with 6 nts leader length: 	0
+leadered mRNAs with 7 nts leader length: 	0
+leadered mRNAs with 8 nts leader length: 	0
+leadered mRNAs with 9 nts leader length: 	0
+leadered mRNAs with 10 nts leader length: 	0
+leadered mRNAs with 11 nts leader length: 	0
+leadered mRNAs with 12 nts leader length: 	0
+leadered mRNAs with 13 nts leader length: 	0
+leadered mRNAs with 14 nts leader length: 	1
+leadered mRNAs with 15 nts leader length: 	0
+leadered mRNAs with 16 nts leader length: 	0
+leadered mRNAs with 17 nts leader length: 	0
+leadered mRNAs with 18 nts leader length: 	0
+leadered mRNAs with 19 nts leader length: 	1
+leadered mRNAs with 20 nts leader length: 	0
